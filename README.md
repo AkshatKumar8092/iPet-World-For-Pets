@@ -24,3 +24,14 @@ service table
 
 users table
 ![image](https://user-images.githubusercontent.com/47049866/229562219-55a46231-40fe-41e6-892b-18d56d545e98.png)
+
+
+
+
+once you have done with this we need to start the server of apache and myssql in xampp
+
+once that is done
+
+all you have to do is open vs code and run *index_toStart.php*
+
+then you are good to go.
