@@ -1,0 +1,63 @@
+Download and install the latest version of xampp 
+Do the setup for mysql and apache 
+start the apache server then my sql server
+goto mysql admin
+in your browser local host PHP admin will start
+
+
+now all the things are case sencitive
+
+create a new database with name *ipet*
+make a new table
+
+
+
+t1:
+create table appointment(
+name varchar(30),
+email varchar(30),
+date varchar(30),
+time varchar(30),
+petname varchar(30),
+service varchar(30)
+);
+
+
+
+
+t2:
+create table contactus(
+name varchar(30),
+email varchar(31),
+number int(10),
+message varchar(310)
+);
+
+
+
+
+
+t3:
+create table service(
+uid int(11),
+type int(11)
+);
+
+
+
+
+t4:
+create table service(
+email varchar(32),
+password varchar(32),
+cpassword varchar(32),
+fname varchar(32),
+lname varchar(32),
+dob varchar(32),
+phno int(13)
+);
+
+
+
+
+
