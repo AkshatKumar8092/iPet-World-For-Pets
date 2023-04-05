@@ -1,6 +1,11 @@
 # iPet-World-For-Pets
 
 
+below all thisng should have to be there.
+just download the .rar file whic is present in the folder *Final Working Project*
+
+
+
 this is a project on pet care website that is fully responsive that i have made using html css and javascript
 
 for backend/server side i have used xampp: apache and mysql
